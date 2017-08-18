@@ -45,8 +45,8 @@ RGL is React-only and does not require jQuery.
 1. [Minimum and Maximum Width/Height](https://strml.github.io/react-grid-layout/examples/9-min-max-wh.html)
 1. [Dynamic Minimum and Maximum Width/Height](https://strml.github.io/react-grid-layout/examples/10-dynamic-min-max-wh.html)
 1. [No Vertical Compacting (Free Movement)](https://strml.github.io/react-grid-layout/examples/11-no-vertical-compact.html)
-1. [Viewport related element sizing](https://strml.github.io/react-grid-layout/examples/12-viewport-related.html)
-1. [Viewport related element sizing in a responsive layout](https://strml.github.io/react-grid-layout/examples/13-viewport-related-responsive.html)
+1. [Viewport related element sizing](https://zimoony.github.io/react-grid-layout/examples/12-viewport-related.html)
+1. [Viewport related element sizing in a responsive layout](https://zimoony.github.io/react-grid-layout/examples/13-viewport-related-responsive.html)
 
 #### Projects based on React-Grid-Layout
 
